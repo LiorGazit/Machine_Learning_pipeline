@@ -1,7 +1,7 @@
 # Machine_Learning_pipelines
 Here I store various machine learning solutions to different types of problems
 
-## [NLP_multiclass_text_classification.ipynb](https://github.com/LiorGazit/Machine_Learning_pipelines/blob/main/NLP_multiclass_text_classification.ipynb)
+## [NLP_multiclass_text_classification.ipynb (on Colab)](https://colab.research.google.com/drive/1MpxLRfAJKZ8th6OIaAUzWMDNck_KAI1k?usp=sharing)
 This Notebook is a Multiclassification Pipeline for Text Observations
 ### The pipeline consists of:  
 1. Gathering the data  
