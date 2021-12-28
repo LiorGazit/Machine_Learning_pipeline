@@ -1,4 +1,4 @@
-# Machine_Learning_pipelines
+# Machine Learning Pipelines
 Here I store various machine learning solutions to different types of problems
 
 ## [NLP_multiclass_text_classification.ipynb (on Colab)](https://colab.research.google.com/drive/1MpxLRfAJKZ8th6OIaAUzWMDNck_KAI1k?usp=sharing)
